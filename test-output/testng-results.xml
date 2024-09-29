@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-29T16:49:01 IST" name="Default suite" finished-at="2024-09-29T16:49:03 IST" duration-ms="2170">
+    <groups>
+    </groups>
+    <test started-at="2024-09-29T16:49:01 IST" name="Default test" finished-at="2024-09-29T16:49:03 IST" duration-ms="2170">
+      <class name="Test.DeletePostTest">
+        <test-method signature="deletePostWithIdOne()[pri:0, instance:Test.DeletePostTest@2a3c96e3]" started-at="2024-09-29T16:49:01 IST" name="deletePostWithIdOne" finished-at="2024-09-29T16:49:03 IST" duration-ms="2145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletePostWithIdOne -->
+      </class> <!-- Test.DeletePostTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
